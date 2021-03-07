@@ -13,7 +13,7 @@
 #include <Gwork/Renderers/SDL2.h>
 #include <SDL.h>
 #include <SDL_ttf.h>
-
+#include <emscripten.h>
 
 int main(int argc, char** argv)
 {
